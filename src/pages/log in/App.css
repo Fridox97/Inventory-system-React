@@ -1,0 +1,28 @@
+.login {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.login form{
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  height: 20rem;
+  width: 20rem;
+  font-weight: bold;
+  align-items: center;
+}
+
+.white {
+  color: white;
+}
+
+.input {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.bigfont{
+  font-size: 24px;
+}
